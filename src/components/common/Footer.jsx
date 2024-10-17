@@ -172,7 +172,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made by Adarsh,      Siddhant and Arsalan © 2024 EduQuest</div>
+          <div className="text-center"> Akshat, Sumit, Ankit  © 2024 EduQuest</div>
         </div>
       </div>
     </div>
